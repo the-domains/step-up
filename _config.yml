@@ -6,9 +6,9 @@ color:
   saturation: 0.9495157792698592
   rhythmicContrast: 0.8894480871967971
   brandColors:
-    - '#85A14C'
-    - '#DBDAE2'
-    - '#5F69A6'
-    - '#2C1410'
-    - '#F16882'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: STEP-UP
