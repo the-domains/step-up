@@ -1,4 +1,3 @@
-layout_spectrum: 0.8943111628759652
 typography_spectrum: 0.42684961180202663
 color:
   brandStrength: 0.34009871422313154
@@ -11,4 +10,6 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.8943111628759652
 name: STEP-UP
+title: School Technology Enablement Project
